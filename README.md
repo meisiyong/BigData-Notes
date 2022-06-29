@@ -70,7 +70,6 @@
 10. [Hive 数据查询详解](notes/Hive数据查询详解.md)
 
 ## 三、Spark
-
 **Spark Core :**
 
 1. [Spark 简介](notes/Spark简介.md)
